@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+![imdbclone](https://github.com/adityatupe-code/IMDB_Clone/assets/114912746/a756df1b-73d7-4097-b86d-e6b8f4c2725e)
 
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
